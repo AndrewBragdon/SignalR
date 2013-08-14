@@ -9,7 +9,11 @@ More test
 
 More test 2
 
+<<<<<<< HEAD
 Another test
+=======
+Another change
+>>>>>>> Test-branch
 
 ## Documentation
 See the [documentation](http://asp.net/signalr)
