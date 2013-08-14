@@ -11,6 +11,8 @@ More test 2
 
 Another change
 
+This change was made in test-branch
+
 ## Documentation
 See the [documentation](http://asp.net/signalr)
 
