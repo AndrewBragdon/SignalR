@@ -7,6 +7,8 @@ it dead easy and handles all the heavy lifting for you.  Test
 
 More test
 
+More test 2
+
 ## Documentation
 See the [documentation](http://asp.net/signalr)
 
