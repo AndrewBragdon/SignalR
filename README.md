@@ -9,6 +9,8 @@ More test
 
 More test 2
 
+Another change
+
 ## Documentation
 See the [documentation](http://asp.net/signalr)
 
