@@ -5,6 +5,8 @@ ASP.NET SignalR is a new library for ASP.NET developers that makes it incredibly
 Pushing data from the server to the client (not just browser clients) has always been a tough problem. SignalR makes 
 it dead easy and handles all the heavy lifting for you.  Test
 
+More test
+
 ## Documentation
 See the [documentation](http://asp.net/signalr)
 
