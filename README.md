@@ -13,7 +13,7 @@ Another change
 
 This change was made in test-branch
 
-This change was made in Experiment branch
+This change was made in Experiment branch; follow up change in Experiment
 
 ## Documentation
 See the [documentation](http://asp.net/signalr)
