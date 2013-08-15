@@ -19,6 +19,8 @@ This is a differrent expeirment
 This change was made in Experiment branch; follow up change in Experiment
 >>>>>>> Experiment
 
+Extra stuff here
+
 ## Documentation
 See the [documentation](http://asp.net/signalr)
 
