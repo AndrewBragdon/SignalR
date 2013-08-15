@@ -45,6 +45,8 @@ After cloning the repository, run `build.cmd`.
 ### Mono
 After cloning the repository, run `make`.
 
+Hello
+
 Open Microsoft.AspNet.SignalR.Mono.sln to do development.
 
 ## Continuous Integration
